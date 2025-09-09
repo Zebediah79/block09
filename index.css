@@ -3,3 +3,16 @@
   padding: 0;
   box-sizing: border-box;
 }
+html {
+  font-family: "Barlow", sans-serif;
+}
+
+a {
+  color: unset;
+  text-decoration: unset;
+}
+
+main {
+  padding: 0.25rem;
+  padding-right: 0.5rem;
+}
